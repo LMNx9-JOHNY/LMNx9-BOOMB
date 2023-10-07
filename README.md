@@ -11,6 +11,9 @@ pip install rich
 pip install michanize
 pip install future
 pip install urllib3
+
 git clone https://github.com/LMNx9-JOHNY/LMNx9-BOOMB.git
+
 cd LMNx9-BOOMB
+
 python SMSspam.py
