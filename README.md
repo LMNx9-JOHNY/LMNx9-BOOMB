@@ -1,31 +1,33 @@
 # LMNx9-BOOMB Updated 
-# 100% Super Fast Working  💥💥💥💥
-# 🙏 Don't Use Elligale work ⚠️
+# 100% Super Fast Working  
+# 💥💥💥💥
+# 🙏 Don't Use Elligal work ⚠️
+![logo](https://github.com/LMNx9-JOHNY/LMNx9-BOOMB/blob/main/Screenshot_20231016-024910.jpg)
 # Command 👇
 
-rm -rf LMNx9-BOOMB
+     rm -rf LMNx9-BOOMB
 
-pkg update && pkg upgrade
+     pkg update && pkg upgrade
 
-pkg install python
+     pkg install python
 
-pkg install git
+     pkg install git
 
-pip install requests
+     pip install requests
 
-pip install bs4
+     pip install bs4
 
-pip install rich
+     pip install rich
 
-pip install michanize
+     pip install michanize
 
-pip install future
+     pip install future
 
-pip install urllib3
+     pip install urllib3
 
 
-git clone https://github.com/LMNx9-JOHNY/LMNx9-BOOMB.git
+     git clone https://github.com/LMNx9-JOHNY/LMNx9-BOOMB.git
 
-cd LMNx9-BOOMB
+     cd LMNx9-BOOMB
 
-python SMSspam.py
+     python SMSspam.py
