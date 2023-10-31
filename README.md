@@ -1,7 +1,7 @@
 # LMNx9-BOOMB Updated 
 # 100% Super Fast Working  
-# 💥💥💥💥
-# 🙏 Don't Use Elligal work ⚠️
+# 💥💥💥💥💥💥💥
+# 🙏 Don't Use Elligally⚠️
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-BOOMB/blob/main/Screenshot_20231016-024910.jpg)
 # Command 👇
 
@@ -30,4 +30,4 @@
 
      cd LMNx9-BOOMB
 
-     python SMSspam.py
+     python LMNx9 Spam v3.py
