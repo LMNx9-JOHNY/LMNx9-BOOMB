@@ -1,4 +1,4 @@
-# LMNx9-BOOMB Updated 
+# LMNx9-BOOMB v5.0
 # 100% Super Fast Working  
 # 💥💥💥💥💥💥💥
 # 🙏 Don't Use Elligally⚠️
@@ -6,28 +6,11 @@
 # Command 👇
 
      rm -rf LMNx9-BOOMB
-
      pkg update && pkg upgrade
-
      pkg install python
-
      pkg install git
 
-     pip install requests
-
-     pip install bs4
-
-     pip install rich
-
-     pip install michanize
-
-     pip install future
-
-     pip install urllib3
-
-
-     git clone https://github.com/LMNx9-JOHNY/LMNx9-BOOMB.git
-
+     git clone https://github.com/LMNx9-JOHNY/LMNx9-BOOMB
      cd LMNx9-BOOMB
-
-     python LMNx9 Spam v3.py
+     python SMS_Spam_v5.0.py
+# DARK TEAM LMNx9
