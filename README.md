@@ -3,7 +3,7 @@
 - 💥 100% Safe - Super Fast Working
 - 💥 All Bug Fixed  & New Features Added
 - 💥 1 Amount Can Spam Up To 60+ Api's
-![logo](https://github.com/LMNx9-JOHNY/LMNx9-BOOMB/blob/main/Screenshot_20231016-024910.jpg)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/SMS_SPAM/refs/heads/main/Spam_v7.png)
 # Installation :
     apt update && upgrade
     dpkg --configure -a
