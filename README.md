@@ -1,7 +1,6 @@
-# LMNx9-BOOMB v5.0
+# LMNx9 SMS SPAM v7.0
 # 100% Super Fast Working  
-# 💥💥💥💥💥💥💥
-# 🙏 Don't Use Elligally⚠️
+# 🙏 Don't Use Elligally ⚠️
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-BOOMB/blob/main/Screenshot_20231016-024910.jpg)
 # Command 👇
 
