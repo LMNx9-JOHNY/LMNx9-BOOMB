@@ -1,13 +1,15 @@
-# LMNx9 SMS SPAM v7.0
-# 100% Super Fast Working  
-# 🙏 Don't Use Elligally ⚠️
+- 💥 Tool - LMNx9 SMS Spam
+- 💥 Update Version - v7.0 armv64
+- 💥 100% Safe - Super Fast Working
+- 💥 All Bug Fixed  & New Features Added
+- 💥 1 Amount Can Spam Up To 60+ Api's
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-BOOMB/blob/main/Screenshot_20231016-024910.jpg)
 # Installation :
-    git clone --depth=1 https://github.com/LMNx9-JOHNY/LMNx9_ENC
-    git pull
-    cd LMNx9_ENC
+    apt update && upgrade
+    dpkg --configure -a
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/SMS_SPAM
+    cd SMS_SPAM
     chmod +x *
-    export X="#DARK_TEAM_LMNx9_ENC_v6_BY_LMNx9"
-    python ENC_v6.py
-
+    export X="LMNx9_SMS_SPAM_V7_D6X37FJO52FHI5"
+    python Spam_v7.py
 #  [JOIN TELEGRAM](https://t.me/TEAM_LMNx9)
