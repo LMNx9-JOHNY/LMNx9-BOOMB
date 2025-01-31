@@ -2,14 +2,12 @@
 # 100% Super Fast Working  
 # 🙏 Don't Use Elligally ⚠️
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-BOOMB/blob/main/Screenshot_20231016-024910.jpg)
-# Command 👇
+# Installation :
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/LMNx9_ENC
+    git pull
+    cd LMNx9_ENC
+    chmod +x *
+    export X="#DARK_TEAM_LMNx9_ENC_v6_BY_LMNx9"
+    python ENC_v6.py
 
-     rm -rf LMNx9-BOOMB
-     pkg update && pkg upgrade
-     pkg install python
-     pkg install git
-
-     git clone https://github.com/LMNx9-JOHNY/LMNx9-BOOMB
-     cd LMNx9-BOOMB
-     python SMS_Spam_v5.0.py
-# DARK TEAM LMNx9
+#  [JOIN TELEGRAM](https://t.me/TEAM_LMNx9)
